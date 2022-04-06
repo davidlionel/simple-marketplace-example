@@ -1,6 +1,6 @@
 {
-  "short_name": "Starter Kit",
-  "name": "Dapp University Starter Kit",
+  "short_name": "Marketplace Example",
+  "name": "Dapp Marketplace Example",
   "icons": [
     {
       "src": "favicon.ico",
